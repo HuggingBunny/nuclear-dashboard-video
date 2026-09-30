@@ -19,6 +19,7 @@ Plays the visual video stream corresponding to your currently playing song in sy
 - **GPU-Accelerated Playback**: Strictly targets H.264 (`avc1` / `itag 136`) 720p streams to enable hardware VAAPI/NVDEC decode, keeping CPU utilization below 8%.
 - **Zero Decoder Thrashing**: Respects WebKitGTK's media pipeline by only seeking on manual timeline scrubs (>6.0s), preventing frame drops and buffering stutters.
 - **Sidebar & Route Isolated**: Mounts exclusively inside `main[data-testid="player-workspace-main"]` on the `/dashboard` route. Automatically suspends rendering when navigating to settings, search, or playlists.
+<img width="1264" height="981" alt="image" src="https://github.com/user-attachments/assets/7f1b1de5-5708-476d-9cc3-8a57b0d5bbd4" />
 
 ---
 
