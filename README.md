@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20WebKitGTK%20%7C%20Tauri-orange.svg)](https://github.com/nukeop/nuclear)
-[![Author](https://img.shields.io/badge/Author-Chad%20Longanecker-green.svg)](https://github.com/ChadLonganecker)
+[![Author](https://img.shields.io/badge/Author-Chad%20Longanecker-green.svg)](https://github.com/HuggingBunny)
 
 An ad-free, zero-control, auto-resizing YouTube music video companion for the **Nuclear Music Player** dashboard.
 
@@ -47,7 +47,7 @@ flowchart LR
 Clone the repository and run the installer:
 
 ```bash
-git clone https://github.com/ChadLonganecker/nuclear-dashboard-video.git
+git clone https://github.com/HuggingBunny/nuclear-dashboard-video.git
 cd nuclear-dashboard-video
 ./install.sh
 ```
@@ -116,12 +116,12 @@ To have this plugin featured in the official Nuclear in-app Plugin Store:
      "name": "Dashboard Video Companion",
      "description": "Zero-control auto-resizing YouTube video companion on the Nuclear Dashboard for the currently playing track",
      "author": "Chad Longanecker",
-     "repo": "ChadLonganecker/nuclear-dashboard-video",
+     "repo": "HuggingBunny/nuclear-dashboard-video",
      "category": "dashboard",
      "categories": ["dashboard", "integration"],
      "tags": ["youtube", "video", "dashboard", "companion", "music-video"],
      "version": "1.0.0",
-     "downloadUrl": "https://github.com/ChadLonganecker/nuclear-dashboard-video/releases/download/v1.0.0/plugin.zip",
+     "downloadUrl": "https://github.com/HuggingBunny/nuclear-dashboard-video/releases/download/v1.0.0/plugin.zip",
      "addedAt": "2026-09-30T00:00:00Z"
    }
    ```
@@ -133,7 +133,7 @@ To have this plugin featured in the official Nuclear in-app Plugin Store:
 
 **Chad Longanecker**  
 Security Automation & DevSecOps Engineer  
-[GitHub Profile](https://github.com/ChadLonganecker)
+[GitHub Profile](https://github.com/HuggingBunny)
 
 ---
 
